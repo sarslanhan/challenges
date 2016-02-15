@@ -270,7 +270,7 @@ LeetCode
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| - |Hard|
 |3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| - |Medium|
 |2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| - |Medium|
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| - |Medium|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](./two-sum/two-sum.cpp) |Medium|
 
 
 ###LeetCode Shell
