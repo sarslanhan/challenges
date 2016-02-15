@@ -269,7 +269,7 @@ LeetCode
 |5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| - |Medium|
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| - |Hard|
 |3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| - |Medium|
-|2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| - |Medium|
+|2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [C++](./add-two-numbers/add-two-numbers.cpp) |Medium|
 |1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](./two-sum/two-sum.cpp) |Medium|
 
 
