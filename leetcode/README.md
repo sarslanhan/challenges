@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| - |Medium|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](./longest-palindromic-substring/longest-palindromic-substring.cpp) |Medium|
+|3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) |Medium|
 |2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [C++](./add-two-numbers/add-two-numbers.cpp) |Medium|
 |1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](./two-sum/two-sum.cpp) |Medium|
