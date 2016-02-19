@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](./palindrome-number/palindrome-number.cpp) |Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](./string-to-integer-atoi/string-to-integer-atoi.cpp) |Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C++](./reverse-integer/reverse-integer.cpp) |Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C++](./zigzag-conversion/zigzag-conversion.cpp) |Easy|
