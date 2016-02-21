@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|15|[3Sum](https://leetcode.com/problems/3sum/)| [C++](./3sum/3sum.cpp) |Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [C++](./longest-common-prefix/longest-common-prefix.cpp) |Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](./palindrome-number/palindrome-number.cpp) |Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](./string-to-integer-atoi/string-to-integer-atoi.cpp) |Easy|
