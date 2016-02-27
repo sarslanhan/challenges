@@ -5,6 +5,7 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[House Robber](http://www.lintcode.com/en/problem/house-robber/)| [C++](./house-robber/house-robber.cpp) |Medium|
 |[Longest Increasing Continuous Subsequence](http://www.lintcode.com/en/problem/longest-increasing-continuous-subsequence/)| [C++](./longest-increasing-continuous-subsequence/longest-increasing-continuous-subsequence.cpp) |Easy|
 |[Identical Binary Tree](http://www.lintcode.com/en/problem/identical-binary-tree/)| [C++](./identical-binary-tree/identical-binary-tree.cpp) |Easy|
 |[Binary Tree Serialization](http://www.lintcode.com/en/problem/binary-tree-serialization/)| [C++](./binary-tree-serialization/binary-tree-serialization.cpp) |Medium|
