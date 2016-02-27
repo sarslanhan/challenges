@@ -5,6 +5,7 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Continuous Subarray Sum](http://www.lintcode.com/en/problem/continuous-subarray-sum/)| [C++](./continuous-subarray-sum/continuous-subarray-sum.cpp) |Medium|
 |[Number of Airplanes in the Sky](http://www.lintcode.com/en/problem/number-of-airplanes-in-the-sky/)| [C++](./number-of-airplanes-in-the-sky/number-of-airplanes-in-the-sky.cpp) |Medium|
 |[House Robber](http://www.lintcode.com/en/problem/house-robber/)| [C++](./house-robber/house-robber.cpp) |Medium|
 |[Longest Increasing Continuous Subsequence](http://www.lintcode.com/en/problem/longest-increasing-continuous-subsequence/)| [C++](./longest-increasing-continuous-subsequence/longest-increasing-continuous-subsequence.cpp) |Easy|
