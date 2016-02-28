@@ -5,6 +5,7 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Remove Linked List Elements](http://www.lintcode.com/en/problem/remove-linked-list-elements/)| [C++](./remove-linked-list-elements/remove-linked-list-elements.cpp) |Easy|
 |[Add and Search Word](http://www.lintcode.com/en/problem/add-and-search-word/)| [C++](./add-and-search-word/add-and-search-word.cpp) |Medium|
 |[Implement Trie](http://www.lintcode.com/en/problem/implement-trie/)| [C++](./implement-trie/implement-trie.cpp) |Medium|
 |[Continuous Subarray Sum](http://www.lintcode.com/en/problem/continuous-subarray-sum/)| [C++](./continuous-subarray-sum/continuous-subarray-sum.cpp) |Medium|
