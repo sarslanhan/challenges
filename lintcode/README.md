@@ -5,6 +5,8 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Add and Search Word](http://www.lintcode.com/en/problem/add-and-search-word/)| [C++](./add-and-search-word/add-and-search-word.cpp) |Medium|
+|[Implement Trie](http://www.lintcode.com/en/problem/implement-trie/)| [C++](./implement-trie/implement-trie.cpp) |Medium|
 |[Continuous Subarray Sum](http://www.lintcode.com/en/problem/continuous-subarray-sum/)| [C++](./continuous-subarray-sum/continuous-subarray-sum.cpp) |Medium|
 |[Number of Airplanes in the Sky](http://www.lintcode.com/en/problem/number-of-airplanes-in-the-sky/)| [C++](./number-of-airplanes-in-the-sky/number-of-airplanes-in-the-sky.cpp) |Medium|
 |[House Robber](http://www.lintcode.com/en/problem/house-robber/)| [C++](./house-robber/house-robber.cpp) |Medium|
