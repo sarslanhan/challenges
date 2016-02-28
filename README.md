@@ -5,3 +5,4 @@ Challenge solutions for problems from several online judges
 
 * [LeetCode](./leetcode)
 * [LintCode](./lintcode)
+* [HackerRank](./hackerrank)
