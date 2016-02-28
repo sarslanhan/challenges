@@ -5,6 +5,7 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Segment Tree Build](http://www.lintcode.com/en/problem/segment-tree-build/)| [C++](./segment-tree-build/segment-tree-build.cpp) |Medium|
 |[Find the Missing Number](http://www.lintcode.com/en/problem/find-the-missing-number/)| [C++](./find-the-missing-number/find-the-missing-number.cpp) |Easy|
 |[Remove Linked List Elements](http://www.lintcode.com/en/problem/remove-linked-list-elements/)| [C++](./remove-linked-list-elements/remove-linked-list-elements.cpp) |Easy|
 |[Add and Search Word](http://www.lintcode.com/en/problem/add-and-search-word/)| [C++](./add-and-search-word/add-and-search-word.cpp) |Medium|
