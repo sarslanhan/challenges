@@ -5,6 +5,10 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Longest Common Substring](http://www.lintcode.com/en/problem/longest-common-substring/)| [C++](./longest-common-substring/longest-common-substring.cpp) |Medium|
+|[Longest Common Prefix](http://www.lintcode.com/en/problem/longest-common-prefix/)| [C++](./longest-common-prefix/longest-common-prefix.cpp) |Medium|
+|[Anagrams](http://www.lintcode.com/en/problem/anagrams/)| [C++](./anagrams/anagrams.cpp) |Medium|
+|[Two Strings Are Anagrams](http://www.lintcode.com/en/problem/two-strings-are-anagrams/)| [C++](./two-strings-are-anagrams/two-strings-are-anagrams.cpp) |Easy|
 |[Segment Tree Build](http://www.lintcode.com/en/problem/segment-tree-build/)| [C++](./segment-tree-build/segment-tree-build.cpp) |Medium|
 |[Find the Missing Number](http://www.lintcode.com/en/problem/find-the-missing-number/)| [C++](./find-the-missing-number/find-the-missing-number.cpp) |Easy|
 |[Remove Linked List Elements](http://www.lintcode.com/en/problem/remove-linked-list-elements/)| [C++](./remove-linked-list-elements/remove-linked-list-elements.cpp) |Easy|
