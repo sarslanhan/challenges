@@ -5,6 +5,16 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Partition Array](http://www.lintcode.com/en/problem/partition-array/)| [C++](./partition-array/partition-array.cpp) |Medium|
+|[Two Sum](http://www.lintcode.com/en/problem/two-sum/)| [C++](./two-sum/two-sum.cpp) |Medium|
+|[3Sum](http://www.lintcode.com/en/problem/3sum/)| [C++](./3sum/3sum.cpp) |Medium|
+|[3Sum Closest](http://www.lintcode.com/en/problem/3sum-closest/)| [C++](./3sum-closest/3sum-closest.cpp) |Medium|
+|[First Missing Positive](http://www.lintcode.com/en/problem/first-missing-positive/)| [C++](./first-missing-positive/first-missing-positive.cpp) |Medium|
+|[Product of Array Exclude Itself](http://www.lintcode.com/en/problem/product-of-array-exclude-itself/)| [C++](./product-of-array-exclude-itself/product-of-array-exclude-itself.cpp) |Easy|
+|[Merge Sorted Array](http://www.lintcode.com/en/problem/merge-sorted-array/)| [C++](./merge-sorted-array/merge-sorted-array.cpp) |Easy|
+|[Remove Duplicates from Sorted Array](http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-array/)| [C++](./remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) |Easy|
+|[Subarray Sum](http://www.lintcode.com/en/problem/subarray-sum/)| [C++](./subarray-sum/subarray-sum.cpp) |Easy|
+|[Remove Element](http://www.lintcode.com/en/problem/remove-element/)| [C++](./remove-element/remove-element.cpp) |Easy|
 |[Longest Common Substring](http://www.lintcode.com/en/problem/longest-common-substring/)| [C++](./longest-common-substring/longest-common-substring.cpp) |Medium|
 |[Longest Common Prefix](http://www.lintcode.com/en/problem/longest-common-prefix/)| [C++](./longest-common-prefix/longest-common-prefix.cpp) |Medium|
 |[Anagrams](http://www.lintcode.com/en/problem/anagrams/)| [C++](./anagrams/anagrams.cpp) |Medium|
