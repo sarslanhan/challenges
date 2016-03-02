@@ -5,6 +5,13 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Find Bad Version](http://www.lintcode.com/en/problem/find-bad-version/)| [C++](./find-bad-version/find-bad-version.cpp) |Medium|
+|[Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)| [C++](./find-peak-element/find-peak-element.cpp) |Medium|
+|[Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)| [C++](./find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.cpp) |Medium|
+|[Wood Cut](http://www.lintcode.com/en/problem/wood-cut/)| [C++](./wood-cut/wood-cut.cpp) |Medium|
+|[First Position of Target](http://www.lintcode.com/en/problem/first-position-of-target/)| [C++](./first-position-of-target/first-position-of-target.cpp) |Easy|
+|[Search Insert Position](http://www.lintcode.com/en/problem/search-insert-position/)| [C++](./search-insert-position/search-insert-position.cpp) |Easy|
+|[Sqrt(x)](http://www.lintcode.com/en/problem/search-insert-position/)| [C++](./search-insert-position/search-insert-position.cpp) |Easy|
 |[Partition Array](http://www.lintcode.com/en/problem/partition-array/)| [C++](./partition-array/partition-array.cpp) |Medium|
 |[Two Sum](http://www.lintcode.com/en/problem/two-sum/)| [C++](./two-sum/two-sum.cpp) |Medium|
 |[3Sum](http://www.lintcode.com/en/problem/3sum/)| [C++](./3sum/3sum.cpp) |Medium|
