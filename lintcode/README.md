@@ -5,6 +5,9 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)| [C++](./search-a-2d-matrix/search-a-2d-matrix.cpp) |Easy|
+|[Search for a Range](http://www.lintcode.com/en/problem/search-for-a-range/)| [C++](./search-for-a-range/search-for-a-range.cpp) |Medium|
+|[Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)| [C++](./search-in-rotated-sorted-array/search-in-rotated-sorted-array.cpp) |Medium|
 |[Find Bad Version](http://www.lintcode.com/en/problem/find-bad-version/)| [C++](./find-bad-version/find-bad-version.cpp) |Medium|
 |[Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)| [C++](./find-peak-element/find-peak-element.cpp) |Medium|
 |[Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)| [C++](./find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.cpp) |Medium|
