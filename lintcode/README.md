@@ -5,6 +5,12 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Binary Representation](http://www.lintcode.com/en/problem/binary-representation/)| [C++](./binary-representation/binary-representation.cpp) |Hard|
+|[Unique Binary Search Trees](http://www.lintcode.com/en/problem/unique-binary-search-trees/)| [C++](./unique-binary-search-trees/unique-binary-search-trees.cpp) |Medium|
+|[Update Bits](http://www.lintcode.com/en/problem/update-bits/)| [C++](./update-bits/update-bits.cpp) |Medium|
+|[Unique Paths](http://www.lintcode.com/en/problem/unique-paths/)| [C++](./unique-paths/unique-paths.cpp) |Easy|
+|[O(1) Check Power of 2](http://www.lintcode.com/en/problem/o1-check-power-of-2/)| [C++](./o1-check-power-of-2/o1-check-power-of-2.cpp) |Easy|
+|[Flip Bits](http://www.lintcode.com/en/problem/flip-bits/)| [C++](./flip-bits/flip-bits.cpp) |Easy|
 |[Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)| [C++](./search-a-2d-matrix/search-a-2d-matrix.cpp) |Easy|
 |[Search for a Range](http://www.lintcode.com/en/problem/search-for-a-range/)| [C++](./search-for-a-range/search-for-a-range.cpp) |Medium|
 |[Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)| [C++](./search-in-rotated-sorted-array/search-in-rotated-sorted-array.cpp) |Medium|
