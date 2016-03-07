@@ -5,6 +5,7 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Single Number](http://www.lintcode.com/en/problem/single-number/)| [C++](./single-number/single-number.cpp) |Easy|
 |[Binary Representation](http://www.lintcode.com/en/problem/binary-representation/)| [C++](./binary-representation/binary-representation.cpp) |Hard|
 |[Unique Binary Search Trees](http://www.lintcode.com/en/problem/unique-binary-search-trees/)| [C++](./unique-binary-search-trees/unique-binary-search-trees.cpp) |Medium|
 |[Update Bits](http://www.lintcode.com/en/problem/update-bits/)| [C++](./update-bits/update-bits.cpp) |Medium|
