@@ -5,6 +5,7 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Majority Number](http://www.lintcode.com/en/problem/majority-number/)| [C++](./majority-number/majority-number.cpp) |Easy|
 |[Single Number](http://www.lintcode.com/en/problem/single-number/)| [C++](./single-number/single-number.cpp) |Easy|
 |[Binary Representation](http://www.lintcode.com/en/problem/binary-representation/)| [C++](./binary-representation/binary-representation.cpp) |Hard|
 |[Unique Binary Search Trees](http://www.lintcode.com/en/problem/unique-binary-search-trees/)| [C++](./unique-binary-search-trees/unique-binary-search-trees.cpp) |Medium|
