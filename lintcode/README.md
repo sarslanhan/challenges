@@ -5,6 +5,7 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Largest Number](http://www.lintcode.com/en/problem/largest-number/)| [C++](./largest-number/largest-number.cpp) |Medium|
 |[Gas Station](http://www.lintcode.com/en/problem/gas-station/)| [C++](./gas-station/gas-station.cpp) |Medium|
 |[Majority Number](http://www.lintcode.com/en/problem/majority-number/)| [C++](./majority-number/majority-number.cpp) |Easy|
 |[Single Number](http://www.lintcode.com/en/problem/single-number/)| [C++](./single-number/single-number.cpp) |Easy|
