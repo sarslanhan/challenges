@@ -5,6 +5,7 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Fibonacci](http://www.lintcode.com/en/problem/fibonacci/)| [C++](./fibonacci/fibonacci.cpp) |Easy|
 |[Jump Game](http://www.lintcode.com/en/problem/jump-game/)| [C++](./jump-game/jump-game.cpp) |Medium|
 |[Delete Digits](http://www.lintcode.com/en/problem/delete-digits/)| [C++](./delete-digits/delete-digits.cpp) |Medium|
 |[Largest Number](http://www.lintcode.com/en/problem/largest-number/)| [C++](./largest-number/largest-number.cpp) |Medium|
