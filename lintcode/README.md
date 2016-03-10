@@ -5,6 +5,9 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Remove Duplicates from Sorted List](http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-list/)| [C++](./remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.cpp) |Easy|
+|[Merge Two Sorted Lists](http://www.lintcode.com/en/problem/merge-two-sorted-lists/)| [C++](./merge-two-sorted-lists/merge-two-sorted-lists.cpp) |Easy|
+|[Remove Nth Node From End of List](http://www.lintcode.com/en/problem/remove-nth-node-from-end-of-list/)| [C++](./remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.cpp) |Easy|
 |[Next Permutation](http://www.lintcode.com/en/problem/next-permutation/)| [C++](./next-permutation/next-permutation.cpp) |Medium|
 |[Fibonacci](http://www.lintcode.com/en/problem/fibonacci/)| [C++](./fibonacci/fibonacci.cpp) |Easy|
 |[Jump Game](http://www.lintcode.com/en/problem/jump-game/)| [C++](./jump-game/jump-game.cpp) |Medium|
