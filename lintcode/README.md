@@ -5,6 +5,8 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Rotate List](http://www.lintcode.com/en/problem/rotate-list/)| [C++](./rotate-list/rotate-list.cpp) |Medium|
+|[Reverse Linked List](http://www.lintcode.com/en/problem/reverse-linked-list/)| [C++](./reverse-linked-list/reverse-linked-list.cpp) |Easy|
 |[Partition List](http://www.lintcode.com/en/problem/partition-list/)| [C++](./partition-list/partition-list.cpp) |Easy|
 |[Remove Duplicates from Sorted List](http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-list/)| [C++](./remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.cpp) |Easy|
 |[Merge Two Sorted Lists](http://www.lintcode.com/en/problem/merge-two-sorted-lists/)| [C++](./merge-two-sorted-lists/merge-two-sorted-lists.cpp) |Easy|
