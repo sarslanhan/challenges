@@ -5,6 +5,9 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Linked List Cycle](http://www.lintcode.com/en/problem/linked-list-cycle/)| [C++](./linked-list-cycle/linked-list-cycle.cpp) |Medium|
+|[Copy List with Random Pointer](http://www.lintcode.com/en/problem/copy-list-with-random-pointer/)| [C++](./copy-list-with-random-pointer/copy-list-with-random-pointer.cpp) |Medium|
+|[Convert Sorted List to Balanced BST](http://www.lintcode.com/en/problem/convert-sorted-list-to-balanced-bst/)| [C++](./convert-sorted-list-to-balanced-bst/convert-sorted-list-to-balanced-bst.cpp) |Medium|
 |[Rotate List](http://www.lintcode.com/en/problem/rotate-list/)| [C++](./rotate-list/rotate-list.cpp) |Medium|
 |[Reverse Linked List](http://www.lintcode.com/en/problem/reverse-linked-list/)| [C++](./reverse-linked-list/reverse-linked-list.cpp) |Easy|
 |[Partition List](http://www.lintcode.com/en/problem/partition-list/)| [C++](./partition-list/partition-list.cpp) |Easy|
