@@ -5,6 +5,8 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Sort List](http://www.lintcode.com/en/problem/sort-list/)| [C++](./sort-list/sort-list.cpp) |Medium|
+|[Reorder List](http://www.lintcode.com/en/problem/reorder-list/)| [C++](./reorder-list/reorder-list.cpp) |Medium|
 |[Linked List Cycle](http://www.lintcode.com/en/problem/linked-list-cycle/)| [C++](./linked-list-cycle/linked-list-cycle.cpp) |Medium|
 |[Copy List with Random Pointer](http://www.lintcode.com/en/problem/copy-list-with-random-pointer/)| [C++](./copy-list-with-random-pointer/copy-list-with-random-pointer.cpp) |Medium|
 |[Convert Sorted List to Balanced BST](http://www.lintcode.com/en/problem/convert-sorted-list-to-balanced-bst/)| [C++](./convert-sorted-list-to-balanced-bst/convert-sorted-list-to-balanced-bst.cpp) |Medium|
