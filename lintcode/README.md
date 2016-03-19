@@ -5,6 +5,15 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Remove Node in Binary Search Tree](http://www.lintcode.com/problem/remove-node-in-binary-search-tree/)| [C++](./remove-node-in-binary-search-tree/remove-node-in-binary-search-tree.cpp) |Hard|
+|[Search Range in Binary Search Tree](http://www.lintcode.com/problem/search-range-in-binary-search-tree/)| [C++](./search-range-in-binary-search-tree/search-range-in-binary-search-tree.cpp) |Medium|
+|[Binary Tree Level Order Traversal](http://www.lintcode.com/problem/binary-tree-level-order-traversal/)| [C++](./binary-tree-level-order-traversal/binary-tree-level-order-traversal.cpp) |Medium|
+|[Construct Binary Tree from Preorder and Inorder Traversal](http://www.lintcode.com/problem/construct-binary-tree-from-preorder-and-inorder-traversal/)| [C++](./construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.cpp) |Medium|
+|[Balanced Binary Tree](http://www.lintcode.com/problem/balanced-binary-tree/)| [C++](./balanced-binary-tree/balanced-binary-tree.cpp) |Medium|
+|[Validate Binary Search Tree](http://www.lintcode.com/problem/validate-binary-search-tree/)| [C++](./validate-binary-search-tree/validate-binary-search-tree.cpp) |Medium|
+|[Binary Tree Preorder Traversal](http://www.lintcode.com/problem/binary-tree-preorder-traversal/)| [C++](./binary-tree-preorder-traversal/binary-tree-preorder-traversal.cpp) |Easy|
+|[Insert Node in a Binary Search Tree](http://www.lintcode.com/problem/insert-node-in-a-binary-search-tree/)| [C++](./insert-node-in-a-binary-search-tree/insert-node-in-a-binary-search-tree.cpp) |Easy|
+|[Maximum Depth of Binary Tree](http://www.lintcode.com/problem/maximum-depth-of-binary-tree/)| [C++](./maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.cpp) |Easy|
 |[Sort List](http://www.lintcode.com/en/problem/sort-list/)| [C++](./sort-list/sort-list.cpp) |Medium|
 |[Reorder List](http://www.lintcode.com/en/problem/reorder-list/)| [C++](./reorder-list/reorder-list.cpp) |Medium|
 |[Linked List Cycle](http://www.lintcode.com/en/problem/linked-list-cycle/)| [C++](./linked-list-cycle/linked-list-cycle.cpp) |Medium|
