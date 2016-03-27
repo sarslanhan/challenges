@@ -5,6 +5,11 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Subsets II](http://www.lintcode.com/problem/subsets-ii/)| [C++](./subsets-ii/subsets-ii.cpp) |Medium|
+|[Subsets](http://www.lintcode.com/problem/subsets/)| [C++](./subsets/subsets.cpp) |Medium|
+|[Topological Sorting](http://www.lintcode.com/problem/topological-sorting/)| [C++](./topological-sorting/topological-sorting.cpp) |Medium|
+|[Combination Sum](http://www.lintcode.com/problem/combination-sum/)| [C++](./combination-sum/combination-sum.cpp) |Medium|
+|[Combinations](http://www.lintcode.com/problem/combinations/)| [C++](./combinations/combinations.cpp) |Medium|
 |[Remove Node in Binary Search Tree](http://www.lintcode.com/problem/remove-node-in-binary-search-tree/)| [C++](./remove-node-in-binary-search-tree/remove-node-in-binary-search-tree.cpp) |Hard|
 |[Search Range in Binary Search Tree](http://www.lintcode.com/problem/search-range-in-binary-search-tree/)| [C++](./search-range-in-binary-search-tree/search-range-in-binary-search-tree.cpp) |Medium|
 |[Binary Tree Level Order Traversal](http://www.lintcode.com/problem/binary-tree-level-order-traversal/)| [C++](./binary-tree-level-order-traversal/binary-tree-level-order-traversal.cpp) |Medium|
