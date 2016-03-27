@@ -5,6 +5,8 @@ LintCode
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Permutations II](http://www.lintcode.com/problem/permutations-ii/)| [C++](./permutations-ii/permutations-ii.cpp) |Medium|
+|[Permutations](http://www.lintcode.com/problem/permutations/)| [C++](./permutations/permutations.cpp) |Medium|
 |[Subsets II](http://www.lintcode.com/problem/subsets-ii/)| [C++](./subsets-ii/subsets-ii.cpp) |Medium|
 |[Subsets](http://www.lintcode.com/problem/subsets/)| [C++](./subsets/subsets.cpp) |Medium|
 |[Topological Sorting](http://www.lintcode.com/problem/topological-sorting/)| [C++](./topological-sorting/topological-sorting.cpp) |Medium|
